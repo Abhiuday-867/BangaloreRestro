@@ -70,3 +70,5 @@ const App = () => {
 };
 
 export default App;
+
+//todo: sections Places to Visit, Restaurant and    Lodges, Hospitals Nearby and Review
